@@ -15,6 +15,10 @@ You can use the template with the CRA command:
 
 ## cra-template-present-g-ts
 
+~~~
+Under development
+
+
 Template based on Create React App version for TypeScript
 
 SASS / SCSS support is added to the template, ESLint and Prettier are installed configured for TypeScript
@@ -22,5 +26,6 @@ SASS / SCSS support is added to the template, ESLint and Prettier are installed 
 You can use the template with the CRA command:
 
 `npx create-react-app <your-project> --template present-g-ts`
+~~~
 
 Happy use;)
