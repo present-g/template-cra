@@ -23,4 +23,4 @@ You can use the template with the CRA command:
 
 `npx create-react-app <your-project> --template present-g-ts`
 
-Fruitful use;)
+Happy use;)
