@@ -1,0 +1,26 @@
+{
+  "name": "cra-template-present-g-ts",
+  "version": "1.0.0",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template"
+  ],
+  "description": "SASS / SCSS support, ESLint and Prettier installed for TypeScript.",
+  "license": "MIT",
+  "engines": {
+    "node": ">=10"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/present-g/template-cra.git",
+    "directory": "cra-template-present-g-ts"
+  },
+  "bugs": {
+    "url": "https://github.com/present-g/template-cra/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
