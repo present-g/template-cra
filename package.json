@@ -1,0 +1,27 @@
+{
+  "name": "template-cra",
+  "version": "1.0.0",
+  "description": "My versions of CRA templates",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/present-g/template-cra.git"
+  },
+  "keywords": [
+    "CRA",
+    "Create React App Template"
+  ],
+  "author": {
+    "email": "gruschinsky7@gmail.com",
+    "name": "present-G",
+    "url": "https://present-g.github.io/"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/present-g/template-cra/issues"
+  },
+  "homepage": "https://github.com/present-g/template-cra#readme"
+}
