@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:origin/main" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7c4c142e-7a71-4969-b888-19fbd021005e" name="Default Changelist" comment="add first template (cra-template-present-g)" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="tsconfig.json" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="ProjectId" id="1k3XdiKZbIh1ljGYi8lFoyVAb0Z" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/cra-template-present-g-ts/src" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.linters.eslint" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/cra-template-present-g-ts/node_modules/typescript/lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/cra-template-present-g-ts/src" />
+      <recent name="$PROJECT_DIR$/cra-template-present-g-ts" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/cra-template-present-g-ts/template" />
+      <recent name="$PROJECT_DIR$/cra-template-present-g-ts/src/img" />
+      <recent name="$PROJECT_DIR$/cra-template-present-g-ts/src/components/App" />
+      <recent name="$PROJECT_DIR$/cra-template-present-g-ts" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7c4c142e-7a71-4969-b888-19fbd021005e" name="Default Changelist" comment="" />
+      <created>1604930337525</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604930337525</updated>
+      <workItem from="1604930339010" duration="8400000" />
+      <workItem from="1605011276511" duration="7181000" />
+    </task>
+    <task id="LOCAL-00001" summary="change README">
+      <created>1604931428541</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604931428541</updated>
+    </task>
+    <task id="LOCAL-00002" summary="change README">
+      <created>1604931923424</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1604931923424</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add config project">
+      <created>1604932210519</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1604932210519</updated>
+    </task>
+    <task id="LOCAL-00004" summary="change .gitignore">
+      <created>1604932274417</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1604932274417</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add first template (cra-template-present-g)">
+      <created>1604932423776</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1604932423776</updated>
+    </task>
+    <task id="LOCAL-00006" summary="change README">
+      <created>1604938158329</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1604938158329</updated>
+    </task>
+    <task id="LOCAL-00007" summary="replaced node-sass with sass">
+      <created>1605013239546</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1605013239546</updated>
+    </task>
+    <task id="LOCAL-00008" summary="transition to arrow functions">
+      <created>1605015162376</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1605015162376</updated>
+    </task>
+    <task id="LOCAL-00009" summary="add second template (cra-template-present-g-ts)">
+      <created>1605018278626</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1605018278626</updated>
+    </task>
+    <task id="LOCAL-00010" summary="change links repository">
+      <created>1605018325353</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1605018325353</updated>
+    </task>
+    <task id="LOCAL-00011" summary="add first template (cra-template-present-g)">
+      <created>1605018519066</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1605018519066</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add config project" />
+    <MESSAGE value="change .gitignore" />
+    <MESSAGE value="change README" />
+    <MESSAGE value="replaced node-sass with sass" />
+    <MESSAGE value="transition to arrow functions" />
+    <MESSAGE value="add second template (cra-template-present-g-ts)" />
+    <MESSAGE value="change links repository" />
+    <MESSAGE value="add first template (cra-template-present-g)" />
+    <option name="LAST_COMMIT_MESSAGE" value="add first template (cra-template-present-g)" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="465" y="259" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604932151897">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="465" y="259" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1604932151897" />
+    <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604933844036">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1604933844036" />
+    <state x="327" y="23" width="785" height="804" key="CommitChangelistDialog2" timestamp="1605018602366">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="327" y="23" width="785" height="804" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1605018602366" />
+    <state x="144" y="54" key="DiffContextDialog" timestamp="1605018246875">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="144" y="54" key="DiffContextDialog/0.0.1440.900@0.0.1440.900" timestamp="1605018246875" />
+    <state width="1419" height="245" key="GridCell.Tab.0.bottom" timestamp="1605012553812">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1605012553812" />
+    <state width="1419" height="245" key="GridCell.Tab.0.center" timestamp="1605012553810">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1605012553810" />
+    <state width="1419" height="245" key="GridCell.Tab.0.left" timestamp="1605012553809">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1605012553809" />
+    <state width="1419" height="245" key="GridCell.Tab.0.right" timestamp="1605012553811">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1605012553811" />
+    <state x="229" y="89" key="SettingsEditor" timestamp="1605014609434">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="229" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1605014609434" />
+    <state x="320" y="177" key="Vcs.Push.Dialog.v2" timestamp="1605018606242">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="177" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1605018606242" />
+    <state x="100" y="100" width="1240" height="700" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1605018778775">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="100" y="100" width="1240" height="700" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1440.900@0.0.1440.900" timestamp="1605018778775" />
+  </component>
+</project>
