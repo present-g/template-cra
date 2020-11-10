@@ -6,7 +6,7 @@
     "create-react-app",
     "template"
   ],
-  "description": "SASS / SCSS support, ESLint and Prettier installed for TypeScript.",
+  "description": "Added to CRA SASS/SCSS support, ESLint and Prettier installed for TypeScript.",
   "license": "MIT",
   "engines": {
     "node": ">=10"
