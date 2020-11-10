@@ -7,7 +7,7 @@ Two templates are available for installation:
 
 Template based on Create React App
 
-SASS / SCSS support is added to the template, ESLint and Prettier are installed
+[SASS / SCSS](https://sass-lang.com/) support is added to the template, [ESLint](https://eslint.org/) and [Prettier](https://prettier.io/) are installed
 
 You can use the template with the CRA command:
 
@@ -21,7 +21,7 @@ If you are already in the desired directory, use `.` Instead of `your-project`:
 
 Template based on Create React App version for TypeScript
 
-SASS / SCSS support is added to the template, ESLint and Prettier are installed configured for TypeScript
+[SASS / SCSS](https://sass-lang.com/) support is added to the template, [ESLint](https://eslint.org/) and [Prettier](https://prettier.io/) are installed configured for [TypeScript](https://www.typescriptlang.org/)
 
 You can use the template with the CRA command:
 
